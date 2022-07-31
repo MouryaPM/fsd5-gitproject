@@ -15,9 +15,13 @@ git branch   - check the current branchname
 git branch newBranch - new branch 
 git checkout branchname - to switch branches
 
+git checkout -b branchname - create newbranch if not exists and switch
+
+
 v1 - initial setup 
 v2 - add new user 
 v3 - login screen
+
 
 
 .git -repo 
