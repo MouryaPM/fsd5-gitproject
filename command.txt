@@ -11,9 +11,9 @@ git commit -m 'message' . - to commit everything from staging
 
 git log - check log of commit 
 
-
-
-
+git branch   - check the current branchname
+git branch newBranch - new branch 
+git checkout branchname - to switch branches
 
 v1 - initial setup 
 v2 - add new user 
