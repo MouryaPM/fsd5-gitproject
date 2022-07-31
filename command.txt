@@ -1,0 +1,163 @@
+git -v
+git status  : to get status of git 
+git init - initialize git repository
+
+git add filename.ext - staging area
+git add . - all files to staging area 
+git rm --cached filename.ext - to remove (unstage) a file
+
+git commit -m 'message' filename.ext - commit single file 
+git commit -m 'message' . - to commit everything from staging
+
+git log - check log of commit 
+
+
+
+
+
+v1 - initial setup 
+v2 - add new user 
+v3 - login screen
+
+
+.git -repo 
+master/main branch - empty
+
+
+
+
+U - untracked
+M - modified
+A - indexed file (in staging area)
+file.txt - current
+
+file2_date.txt - V2
+
+file_date.txt - V1
+
+local tool
+
+
+folder 
+
+working directory 
+
+V1 -commit 
+Projectfolder  - link it to git
+    file1.txt 
+    readme.txt 
+
+
+Projectfolder   
+file1.txt 
+readme.txt  -modified 
+
+V2 
+readme.txt
+
+
+v3:
+readme.txt
+
+complete project 
+file1.txt 
+readme.txt 
+
+master branch
+V1
+v2 
+v3 
+v4
+v5
+v6
+v7 
+v8 - f v1 
+v9 - f v2 
+
+-launch project 
+
+feature :
+branch
+v6 - v1 
+v7 - v2 
+
+
+project :
+readme.txt - 100 
+
+v1 : 
+readme.txt - 100
+
+
+project
+readme.txt  - 120 
+
+v2 :
+readme.txt - 20
+
+
+.foldername  - hidden folder 
+
+add commit 
+
+file1.txt  - add  - staging 
+file2.txt 
+file3.txt - add - staging
+file4.txt -add -staging
+
+commit 
+v1 :
+file1.txt 
+file3.txt 
+file4.txt 
+
+repository 
+add 
+commit 
+branch
+
+
+master 
+v1 
+v2 
+v3 - readme.txt -bug fix
+
+
+nameof  branch 
+v1 
+v2 
+v3 
+v4 -readme.txt - new code 
+
+master 
+v1 
+v2 
+v3 
+v4
+
+merge
+v3 - readme.txt 
+v4 - readme.txt 
+
+100 added line 
+20 deleted lines  - part of v3 
+10 line modified
+
+
+v3 
+20 - 
+50
+
+keep copy 1 keep copy 2  use both
+//v3  - copy 1
+20 - 50 
+
+//v4 -copy2
+20 - 50
+
++
+- 
+
+
+
+100
